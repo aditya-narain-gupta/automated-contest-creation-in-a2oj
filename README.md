@@ -4,7 +4,7 @@ python script to automatically create virtual contest in a2oj.com
 
 just enter basic details about contest like 
 
->number of problems 
+>number of problems  
 >start time 
 >duration 
 >difficulty 
